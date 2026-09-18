@@ -1,0 +1,5 @@
+ultralytics==8.4.155
+pillow
+numpy
+opencv-python
+matplotlib
